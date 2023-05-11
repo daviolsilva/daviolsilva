@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with: Tips and advice on developing websites
 - 💬 Ask me about: Anything 😄
 - 📫 How to reach me: (+55) 15 99805-5876
-- ⚡ Fun fact: I recently started programming 🇧🇷
+- ⚡ Funny facts: I recently started programming and i'm from Brazil
 
 <div align="center">
   <a href="https://github.com/daviolsilva">
