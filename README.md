@@ -5,13 +5,13 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on: Nothing
+- 🔭 I’m currently working on nothing
 - 🌱 I’m currently learning: CSS / JavaScript
 - 👯 I’m looking to collaborate on: Projects in large companies
 - 🤔 I’m looking for help with: Tips and advice on developing websites
 - 💬 Ask me about: Anything 😄
 - 📫 How to reach me: (+55) 15 99805-5876
-- ⚡ Fun fact: I recently started programming
+- ⚡ Fun fact: I recently started programming 🇧🇷
 
 <div align="center">
   <a href="https://github.com/daviolsilva">
