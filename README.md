@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning: CSS / JavaScript;
 - 👯 I’m looking to collaborate on: Projects in large companies;
 - 🤔 I’m looking for help with: Tips and advice on developing websites;
-- 💬 Ask me about: Anything; 😄
+- 💬 Ask me about: Anything; 
 - 📫 How to reach me: (+55) 15 99805-5876;
 - ⚡ Funny facts: I recently started programming and i'm from Brazil!!!
 
