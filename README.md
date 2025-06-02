@@ -1,17 +1,12 @@
-### Hi there 👋
+### A Paz do Senhor 👋
 
 <!--
 **daviolsilva/daviolsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on nothing;
-- 🌱 I’m currently learning: CSS / JavaScript;
-- 👯 I’m looking to collaborate on: Projects in large companies;
-- 🤔 I’m looking for help with: Tips and advice on developing websites;
-- 💬 Ask me about: Anything; 
-- 📫 How to reach me: (+55) 15 99805-5876;
-- ⚡ Funny facts: I recently started programming and i'm from Brazil!!!
+I’m currently learning: CSS / JavaScript;
+(+55) 15 99805-5876;
 
 <div align="center">
   <a href="https://github.com/daviolsilva">
