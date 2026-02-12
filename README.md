@@ -5,8 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-I’m currently learning: CSS / JavaScript;
-(+55) 15 99805-5876;
+Hello! Welcome to my profile!
 
 <div align="center">
   <a href="https://github.com/daviolsilva">
